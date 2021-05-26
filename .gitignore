@@ -1,0 +1,6 @@
+[Bb]uild
+Makefile
+.vscode
+README
+*compile_commands.json
+.cache
