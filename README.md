@@ -24,4 +24,4 @@ Examples:
 
 ![dragon](https://user-images.githubusercontent.com/84567020/119596558-437ce480-bd94-11eb-867f-d956c17c98c0.png)
 
-
+More example images included in the hw# folders
