@@ -1,5 +1,5 @@
 # Pathtracer
-A Pathtracer utilizing NVIDIA OptiX.
+A Monte Carlo Path Tracer utilizing NVIDIA OptiX.
 
 - Direct Lighting
 - Indirect Lighting
